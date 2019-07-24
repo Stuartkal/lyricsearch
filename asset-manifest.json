@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lyricsearch/static/css/main.5a50780e.chunk.css",
+    "main.js": "/lyricsearch/static/js/main.8966fee8.chunk.js",
+    "main.js.map": "/lyricsearch/static/js/main.8966fee8.chunk.js.map",
+    "runtime~main.js": "/lyricsearch/static/js/runtime~main.e411086c.js",
+    "runtime~main.js.map": "/lyricsearch/static/js/runtime~main.e411086c.js.map",
+    "static/js/2.3272996f.chunk.js": "/lyricsearch/static/js/2.3272996f.chunk.js",
+    "static/js/2.3272996f.chunk.js.map": "/lyricsearch/static/js/2.3272996f.chunk.js.map",
+    "index.html": "/lyricsearch/index.html",
+    "precache-manifest.a692f68b45dd337176ef767fc5664bc6.js": "/lyricsearch/precache-manifest.a692f68b45dd337176ef767fc5664bc6.js",
+    "service-worker.js": "/lyricsearch/service-worker.js",
+    "static/css/main.5a50780e.chunk.css.map": "/lyricsearch/static/css/main.5a50780e.chunk.css.map",
+    "static/media/Spinner.gif": "/lyricsearch/static/media/Spinner.fc54e0c4.gif"
+  }
+}
